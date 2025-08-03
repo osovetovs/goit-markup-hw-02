@@ -77,9 +77,9 @@ body {
   color: var(--color-pressed-states);
 }
 
-.link-active {
+/* .link-active {
   color: var(--color-pressed-states);
-}
+} */
 
 .address-links {
   font-style: normal;
