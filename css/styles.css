@@ -73,7 +73,8 @@ body {
   color: var(--color-pressed-states);
 }
 
-.link:hover {
+.link:hover,
+.link:focus {
   color: var(--color-pressed-states);
 }
 
